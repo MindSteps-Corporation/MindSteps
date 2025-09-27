@@ -9,11 +9,13 @@ Link do Padlet:
 
 ***1.1.  Nome do Grupo***
 
-Indicar o nome e github dos integrantes do grupo
+Samuel Ribeiro da Costa - https://github.com/Sam-Ribeiro
+
+R
 
 ***1.2.  Nome do Sistema***
 
-Indicar o nome do software proposto
+MindSteps
 
 ***1.3.  Propósito do Sistema***
 
