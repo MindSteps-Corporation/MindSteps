@@ -19,22 +19,19 @@ MindSteps
 
 ***1.3.  Propósito do Sistema***
 
-Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela *`nome da empresa`*, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
+Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela **MindSteps Corporation**, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
 
-O objetivo do sistema `nome do sistema` é .... *<Descrever aqui o objetivo do sistema que será desenvolvido, principais características, benefícios, problemas que o sistema ajudará a resolver, o comportamento principal do sistema, etc.>*
+O objetivo do sistema **MindSteps** é oferecer uma plataforma gamificada de apoio ao ensino universitário, permitindo que professores criem desafios de forma prática e que alunos estudem de maneira mais motivadora e recompensadora. A solução busca facilitar o acompanhamento do desempenho, estimular a disciplina nos estudos diários e transformar o aprendizado em uma experiência dinâmica.
 
 ***1.2.  Público Alvo***
 
-Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes... *<descrever aqui se existir mais interessados e que participarão do desenvolvimento do sistema>*
-
-***1.3. Descrição dos usuários***
-
-*<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>*
+O público-alvo do aplicativo são professores e estudantes universitários que buscam tornar o processo de ensino mais dinâmico e leve. Professores que precisam de ferramentas práticas para criar e acompanhar atividades, aumentando o engajamento da turma, enquanto alunos desejam métodos de estudo interativos e motivadores que facilitem a organização e a assimilação de conteúdos.
 
 ***Personas:***
 
-*<Imagem, arquivo (PDF), link com as Personas.>*
+![Persona Professor](2.jpg)
 
+![Persona Aluno](3.jpg)
 ____
 
 ***Análise da situação atual: antes da introdução de sua solução***
