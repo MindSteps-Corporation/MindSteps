@@ -11,7 +11,7 @@ Link do Padlet:
 
 Samuel Ribeiro da Costa - https://github.com/Sam-Ribeiro
 
-R
+Rafael Rossi
 
 ***1.2.  Nome do Sistema***
 
@@ -35,25 +35,83 @@ Este documento se destina aos arquitetos de software, engenheiros de software, t
 
 *<Imagem, arquivo (PDF), link com as Personas.>*
 
+____
+
 ***Análise da situação atual: antes da introdução de sua solução***
 
 *`1. O que as pessoas fazem?`*
+
+Professores preparam listas de exercícios, trabalhos e leituras, geralmente em papel ou PDF.
+
+Alunos recebem as atividades, muitas vezes sem prazos intermediários ou incentivos de engajamento.
+
+O estudo costuma ser individual e pouco interativo, com baixa motivação.
+
+A entrega das atividades ocorre por e-mail ou sistemas acadêmicos engessados.
+
 *`2. Quais os artefatos envolvidos?`*
+
+Apostilas, livros físicos e PDFs.
+
+Plataformas institucionais (como Moodle ou Google Classroom).
+
+E-mail para comunicação.
+
+Papel e caneta para resolução de exercícios.
+
 *`3. O que elas precisam saber?`*
+
+Como acessar as plataformas da universidade.
+
+Datas de provas e entregas de trabalhos.
+
+Conteúdo das disciplinas (geralmente de forma tradicional).
+
+Ferramentas digitais básicas (Word, Excel, PowerPoint).
+
+____
 
 ***Análise das tarefas depois: como serão executadas as suas tarefas com sua solução:***
 
 *`1. O que as pessoas fazem?`*
+
+Professores criam desafios diários e atividades gamificadas diretamente no aplicativo.
+
+Alunos acessam os desafios pelo celular ou computador e respondem de forma interativa.
+
+O progresso é acompanhado em tempo real, com pontuações, recompensas e rankings.
+
+Feedback é dado automaticamente ou de forma facilitada pelo professor.
+
 *`2. Quais os artefatos envolvidos?`*
+
+Aplicativo gamificado (plataforma web/mobile).
+
+Sistema de pontuação, recompensas e rankings.
+
+Relatórios automáticos de desempenho.
+
+Conteúdo digital interativo (quizzes, simuladores, vídeos curtos, flashcards).
+
 *`3. O que elas precisam saber?`*
+
+Como usar o aplicativo (interface intuitiva, login, navegação básica).
+
+Regras de pontuação e funcionamento dos desafios.
+
+Conteúdo das disciplinas, mas agora de forma mais aplicada e prática.
+
+Como acompanhar o próprio progresso dentro do sistema.
+
+____
 
 ***Cenário: Antes***
 
-*<Preencher com o cenário idealizado antes da aplicação do seu sistema.>*
+Ricardo (professor) envia uma lista de exercícios em PDF por e-mail. Lucas (aluno) baixa o arquivo, resolve no papel e, muitas vezes, esquece de entregar ou deixa para última hora. A motivação é baixa e o estudo é visto apenas como obrigação. Não há acompanhamento em tempo real e o professor demora para corrigir.
 
 ***Cenário: Depois***
 
-*<Preencher com o cenário idealizado depois da aplicação do seu sistema.>*
+Ricardo cria desafios diários no aplicativo. Lucas acessa pelo celular no intervalo entre aulas, responde aos exercícios interativos e acumula pontos. Ele acompanha seu progresso no ranking da turma, recebe feedback imediato e se sente motivado a continuar. Ricardo, por sua vez, visualiza relatórios automáticos com os acertos e dificuldades da turma, podendo ajustar o conteúdo das próximas aulas.
 
 ## 2. Documentos gerais no repositório
 
