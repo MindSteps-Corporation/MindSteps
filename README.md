@@ -11,7 +11,7 @@ Link do Padlet:
 
 Samuel Ribeiro da Costa - https://github.com/Sam-Ribeiro
 
-Rafael Rossi
+Raphael Rossi - https://github.com/rossipoke
 
 ***1.2.  Nome do Sistema***
 
