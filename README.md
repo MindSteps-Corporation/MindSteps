@@ -114,7 +114,18 @@ Ricardo cria desafios diários no aplicativo. Lucas acessa pelo celular no inter
 
 ***2.1. Requisitos Funcionais***
 
-*<Link, imagem, arquivo com os requisitos funcionais.>*
+| Código  | Nome | Descrição | Prioridade | MoSCoW |
+| ------- | ---- | --------- | ---------- | ------ |
+| RF01 | Busca básica  | O sistema deve permitir buscar por nome de professor, questqao especifica, disciplina, ou termo genérico. Resultado com cards resumidos (professor, disciplina, conteudo abordado e previa da questao). | Média | M |
+| RF02 | Perfil do professor / local |
+| RF03 | Pontuacao e Score |
+| RF04 | Considerar conflitos |
+| RF05 | Modo professor |
+| RF06 | Favoritos e histórico |
+| RF07 | Modos de preferências |
+| RF08 | Autenticação e níveis de acesso |
+| RF09 | Feedback/Relatar problema |
+| RF10 |
 
 ***2.2. Requisitos Não Funcionais***
 
