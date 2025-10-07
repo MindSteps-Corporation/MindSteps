@@ -145,7 +145,7 @@ Ricardo cria desafios diários no aplicativo. Lucas acessa pelo celular no inter
 
 ***2.3. Perguntas***
 
-*Qual disciplina(s) o(a) senhor(a) leciona atualmente e para quais cursos?
+Qual disciplina(s) o(a) senhor(a) leciona atualmente e para quais cursos?
 
 Há quanto tempo o(a) senhor(a) atua como docente no ensino superior?
 
@@ -179,7 +179,7 @@ O que o(a) senhor(a) mais valorizaria em um aplicativo educacional como esse?
 
 O(a) senhor(a) teria alguma sugestão ou conselho para quem está desenvolvendo esse projeto?
 
-Deseja acrescentar algum comentário ou reflexão sobre o uso de gamificação no ensino superior?*
+Deseja acrescentar algum comentário ou reflexão sobre o uso de gamificação no ensino superior?
 
 ***2.4. Entrevista***
 
