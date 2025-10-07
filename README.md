@@ -145,7 +145,41 @@ Ricardo cria desafios diários no aplicativo. Lucas acessa pelo celular no inter
 
 ***2.3. Perguntas***
 
-*<Arquivo com as perguntas realizadas na entrevista .>*
+*Qual disciplina(s) o(a) senhor(a) leciona atualmente e para quais cursos?
+
+Há quanto tempo o(a) senhor(a) atua como docente no ensino superior?
+
+O(a) senhor(a) costuma utilizar recursos digitais ou plataformas on-line em suas aulas? Quais?
+
+Qual sua opinião geral sobre o uso de tecnologias educacionais na universidade?
+
+O(a) senhor(a) já utilizou alguma estratégia de gamificação (como pontuação, ranking, desafios) em suas aulas?
+
+Quais benefícios o(a) senhor(a) acredita que a gamificação pode trazer para o aprendizado dos alunos universitários?
+
+E quais riscos ou limitações o(a) senhor(a) enxerga nesse tipo de abordagem?
+
+Como o(a) senhor(a) imagina que um aplicativo gamificado poderia complementar suas aulas ou avaliações, de forma direta e/ou indireta?
+
+Quais tipos de atividades o(a) senhor(a) acredita que seriam interessantes nesse aplicativo (quiz, desafios semanais, mini provas, etc.)?
+
+Como o(a) senhor(a) gostaria que fosse o sistema de pontuação ou feedback para os alunos?
+
+O(a) senhor(a) acredita que os professores da UTFPR adotariam um aplicativo como esse facilmente?
+
+Quais fatores poderiam incentivar o uso (ex: integração com Moodle, interface simples, reconhecimento institucional)?
+
+Quais fatores poderiam dificultar a adoção (ex: falta de tempo, curva de aprendizado, resistência a novas tecnologias)?
+
+O(a) senhor(a) acredita que os alunos teriam interesse genuíno em competir e colaborar entre si através desse aplicativo?
+
+Que tipo de suporte ou treinamento o(a) senhor(a) acharia importante para usar a plataforma?
+
+O que o(a) senhor(a) mais valorizaria em um aplicativo educacional como esse?
+
+O(a) senhor(a) teria alguma sugestão ou conselho para quem está desenvolvendo esse projeto?
+
+Deseja acrescentar algum comentário ou reflexão sobre o uso de gamificação no ensino superior?*
 
 ***2.4. Entrevista***
 
