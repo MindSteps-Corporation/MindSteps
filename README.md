@@ -116,10 +116,10 @@ Ricardo cria desafios diários no aplicativo. Lucas acessa pelo celular no inter
 
 | Código  | Nome | Descrição | Prioridade | MoSCoW | Dependencia |
 | ------- | ---- | --------- | ---------- | ------ | ----------- |
-| RF01 | Busca básica  | O sistema deve permitir buscar por nome de professor, questqao especifica, disciplina, ou termo genérico. Resultado com cards resumidos (professor, disciplina, conteudo abordado e previa da questao). | Média | M | RF10 |
+| RF01 | Busca básica  | O sistema deve permitir buscar por nome de professor, questao especifica, disciplina, ou termo genérico. Resultado com cards resumidos (professor, disciplina, conteudo abordado e previa da questao). | Média | M | RF10 |
 | RF02 | Perfil do professor / local | Ao abrir um resultado, exibir: foto/nome, departamento/faculdade, disciplinas que ministra, contato (email/ramal), banco de questoes do professor. | Alta | M | RF10 |
 | RF03 | Pontuacao e Score | A depender do tempo de resposta e da resposta escolhida o usuario ganhara pontos para a conta, onde ele pode comparar com os amigos e colegas | Baixa | S | RF10 |
-| RF04 | Considerar conflitos | Se uma questao tiver 3 ou mais pedidos de atualização por resposta errada/etc... a questao fica temporariamente desativada da plataforma ate a correção do professor responsavel. | Média | M | RF05 |
+| RF04 | Considerar conflitos | Se uma questao tiver 30 ou mais pedidos de atualização por resposta errada/etc... a questao fica temporariamente desativada da plataforma ate a correção do professor responsavel. | Média | M | RF05 |
 | RF05 | Modo professor | Permitir modo de criacao de questoes, avaliacao e edição de questoes criadas pelo proprio professor, referente ao login | Alta | M | N |
 | RF06 | Favoritos e histórico | Salvar questoes/professores favoritos e histórico de questões | Média | S | RF10 |
 | RF07 | Modos de preferências | O aluno pode escolher por preferencias de conteudos ou disciplinas, podendo se tornar tambem preparatorio para provas ou atividades | Média | S | RF11 |
@@ -127,22 +127,24 @@ Ricardo cria desafios diários no aplicativo. Lucas acessa pelo celular no inter
 | RF09 | Feedback/Relatar problema | Usuários podem reportar erros nas respostas diretamente ao professor que a fez ou problemas de acessibilidade entre outros para o suporte de desenvolvimento | Média | M | RF10, RF05 |
 | RF10 | Banco de dados | Banco relacional (ex.: PostgreSQL) para dados relacionais (professores, disciplinas, conteudos, questoes). | Alta | M | N |
 | RF11 | Categorização de perguntas | O sistema deve categorizar perguntas, com os tipos dela (como disciplina, dificuldade, professor criador, assunto...). | Alta | M | RF05 |
-
+| RF12 | Score e competitividade | Os usuarios vao ter uma aba de score e pontuacoes tanto em nivel geral (universidades nacionais) quanto da propria universidade ou amigos | Media | M | RF03 | 
+ 
 ***2.2. Requisitos Não Funcionais***
 
 | Código  | Nome | Descrição | Prioridade | MoSCoW | Dependencia |
 | ------- | ---- | --------- | ---------- | ------ | ----------- |
 | RNF01 | Tempo de resposta | Tempo de resposta para busca simples ≤ 5s | Baixa | M | RF10 |
 | RNF02 | Escalabilidade | Suportar crescimento até 3000 usuários ativos simultâneos | Alta | M | N |
-| RNF03 | Autenticação de senhas | Autenticação via SSO; senhas não armazenadas localmente. Controle de acesso baseado em papéis; logs de auditoria | Média | S | RFN11 |
+| RNF03 | Seguranca de senhas | Senhas não armazenadas localmente. Controle de acesso baseado em papéis; logs de auditoria | Média | S | RFN11 |
 | RNF04 | Segurança | Conformidade com LGPD (Brasil) — consentimento para uso de dados pessoais, direito de acesso, exclusão à pedido. Criptografia de senhas. | Média | M | N |
 | RNF05 | Usabilidade | UX mobile-first; telas com tempo de aprendizado ≤ 5 min para usuário novo; suporte a acessibilidade WCAG AA (contraste, leitor de tela, navegação por teclado) | Média | M | N |
 | RNF06 | Localização/Internacionalização | Texto configurável para PT-BR (padrão); suporte para EN e ES opcional. | Baixa | C | N |
-| RNF07 | Autenticação via google | Suporte com login OAuth com o google do e-mail universitário ou credenciais do portal do aluno. | Média | S | RNF11 |
+| RNF07 | Autenticação de senhas | Autenticação via SSO; Suporte com login OAuth com o google do e-mail universitário ou credenciais do portal do aluno. | Média | S | RNF11 |
 | RNF08 | Atualização de dados em tempo real | Webhooks ou sockets para receber notificações de alteração de questoes do sistema. | Alta | M | N |
 | RNF09 | Logs e auditoria | Registrar eventos importantes (login, busca, questoes respondidas, pontos recebidos por questao, alteração de dados) para monitoramento e debugging | Baixa | S | RF10
 | RNF10 | Backend e API | REST/GraphQL API para app (endpoints para busca, perfil, favoritos). Autorização baseada em roles. | Alta | M | RF10 |
 | RNF11 | Integração com base institucional | API ou ETL para sincronizar dados: cadastro de professores, alunos, turmas, grade horária. | Média | S | N |
+| RNF12 | Backup em tempo real | Backup deve ser realizado em tempo real com as informacoes registradas no servidor, onde o mesmo deve gerar uma copia das informacoes atualizadas e enviar o mesmo para o backup | Alta | M | RF10, RNF02 |
 
 ***2.3. Perguntas***
 
