@@ -189,9 +189,6 @@ Deseja acrescentar algum comentário ou reflexão sobre o uso de gamificação n
 *<Arquivo com as respostas do indivíduo entrevistado e link do drive com upload da gravação.>*
 
 ***2.5. Histórias do Usuário***
-Como <Tipo de usuario>, 
-eu quero <Ação especifica> 
-de modo que <resultado esperado/valor agregado>
 
 1) 
 Como Aluno, 
