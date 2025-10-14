@@ -189,8 +189,71 @@ Deseja acrescentar algum comentário ou reflexão sobre o uso de gamificação n
 *<Arquivo com as respostas do indivíduo entrevistado e link do drive com upload da gravação.>*
 
 ***2.5. Histórias do Usuário***
+Como <Tipo de usuario>, 
+eu quero <Ação especifica> 
+de modo que <resultado esperado/valor agregado>
 
-*<Imagem, arquivo (PDF), link com as Histórias de Usuário.>*
+1) 
+Como Aluno, 
+eu quero pesquisar professores, atividades, disciplinas ou termo genérico 
+de modo que o resultado venha em cards resumidos.
+
+2) 
+Como Aluno, 
+eu quero acessar o resultado da busca
+de modo que tenha acesso ao perfil do professor
+
+3) 
+Como Aluno, 
+eu quero pontuar ao resposder questões, 
+de modo que possa comparar com colegas
+
+4) 
+Como Professor, 
+eu quero ser notificado quando uma questão minha ficar desativada por erro, 
+de modo que possa corrigir e repostar
+
+5) 
+Como Professor, 
+eu quero poder criar questões e avaliações
+de modo que tenha acesso a edição e avaliação dessas questões criadas por mim
+
+6) 
+Como Aluno, 
+eu quero salvar minhas questões e professores favoritos
+de modo que eu possa acessa-los com mais facilidade
+
+7) 
+Como Aluno, 
+eu quero escolher minhas preferencias de conteudos e disciplinas
+de modo que possa me preparar para provas ou atividades
+
+8) 
+Como Usuário, 
+eu quero acessar o sistema com conta institucional 
+de modo que assim tenha acesso a filtros relacionados a minha instituição
+
+9) 
+Como Aluno, 
+eu quero reportar problemas de acessibilidade e erros nas questões 
+de modo que tenha contato direto com o professor ou suporte de desenvolvimento
+
+10) 
+Como Usuário, 
+eu quero ter minhas ações registradas e bem seguras
+de modo que possa acessa-las em outro momento e com privacidade
+
+11) 
+Como Professor, 
+eu quero categorizar minhas questões
+de modo que depois possa filtrar por disciplina, dificuldade, professor, assunto e etc...
+
+12) 
+Como Aluno, 
+eu quero acessar o rank de pontuações
+de modo que possa se comparar tanto em nivel geral de todas universidades, sua universidade ou amigos
+
+----
 
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
