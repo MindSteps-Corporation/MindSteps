@@ -246,7 +246,7 @@ de modo que possa se comparar tanto em nivel geral de todas universidades, sua u
 
 ***2.7. Diagramas de Atividades***
 
-[📄 Acesse o PDF](./diag-atividade.pdf)
+![Diagrama de Atividades](4.png)
 
 ***2.8. Protótipos***
 
