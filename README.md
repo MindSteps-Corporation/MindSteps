@@ -252,6 +252,10 @@ de modo que possa se comparar tanto em nivel geral de todas universidades, sua u
 
 [📱 Acesse o protótipo](https://ninjamock.com/s/8BK4QZx)
 
+***2.9. Diagrama de Classes***
+
+![Diagrama de Classes](diagrama-classes.PNG)
+
 ## Referências
 
 *<Esta seção é destinada à descrição das referências utilizadas pelo documento, como por exemplo, URLs e livros. Ver exemplo a seguir:>*
