@@ -188,9 +188,6 @@ Deseja acrescentar algum comentário ou reflexão sobre o uso de gamificação n
 
 *[<Arquivo com as respostas do indivíduo entrevistado e link do drive com upload da gravação.>](https://drive.google.com/file/d/1IdwZusIsaCvx0wNpnqL9H-ckKNoJRPvn/view?usp=sharing)*
 
-
-[Uploading Entrevista com Prof Duarte (Transcrito por TurboScribe.ai. Atualize para Ilimitado para remover esta mensagem.)
-
 Então, vamos lá. Só para o senhor entender mais ou menos o projeto da disciplina, vai ser... não sei se o senhor já chegou a jogar Perguntados. O senhor já chegou a jogar? Cara, pelo nome, não. 
 
 Mas, assim, ele deve ter uma aplicação. Isso, é. Ele é um aplicativo de celular, basicamente, onde a comunidade formula perguntas e você vai respondendo vários quizzes. Ele é um joguinho bem competitivo, é basicamente um jogo de quem responde mais, sabe? Aí, ele separa meio que por disciplinas, história, artes, e ele vai separando ciências, matemática.
